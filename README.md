@@ -1,5 +1,3 @@
-Here's the updated `README.md` file with the title "Clothing Classifier":
-
 ```markdown
 # Clothing Classifier
 
