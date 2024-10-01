@@ -5,9 +5,9 @@ This project uses a convolutional neural network (CNN) to predict the type of cl
 
 ## Contents
 
-- *Convolutional Neural Network Model*: Implemented with TensorFlow and Keras.
-- *Data Augmentation*: Data augmentation techniques are used to improve the model's generalization.
-- *Image Prediction*: Ability to predict clothing types from user-provided images.
+- Convolutional Neural Network Model: Implemented with TensorFlow and Keras.
+- Data Augmentation: Data augmentation techniques are used to improve the model's generalization.
+- Image Prediction: Ability to predict clothing types from user-provided images.
 
 ## Requirements
 
