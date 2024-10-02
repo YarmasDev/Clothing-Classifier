@@ -1,4 +1,3 @@
-```markdown
 # Clothing Classifier
 
 This project uses a convolutional neural network (CNN) to predict the type of clothing from images. The model is trained using the Fashion MNIST dataset from Zalando, which contains images of various clothing types.
