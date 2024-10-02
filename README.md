@@ -63,6 +63,5 @@ The model can classify images into the following categories:
 
 The model's performance is evaluated on a validation dataset, and loss graphs can be observed during training.
 
-```bash
-Feel free to customize it further if needed!
-```
+#Feel free to customize it further if needed!
+
